@@ -1,5 +1,7 @@
 # CodeLlama — Local AI Coding Assistant
 
+![Alt text describing the image](image.png)
+
 A lightweight, locally hosted coding assistant built with **Ollama** and **Gradio**. The application provides a ChatGPT-style interface for asking programming questions while sending prompts to a model running on your own machine.
 
 The repository includes a Gradio chat application, an Ollama model configuration, and Python dependencies.
